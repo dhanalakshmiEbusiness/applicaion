@@ -1,0 +1,64 @@
+{
+
+  "companyNumber" : {
+    "type" : "String",
+    "description" : "Enter sensorName",
+    "label":"Model Number",
+    "required":true
+  },
+  "companyName" : {
+    "type" : "String",
+    "description" : "Enter sensorDescription",
+    "label":"Registration Number",
+    "required":false
+  },
+  "streetAddress" : {
+    "type" : "String",
+    "description" : "Enter latitude",
+    "label":"latitude",
+    "required":false
+  },
+  "city" : {
+    "type" : "String",
+    "description" : "Enter longitude",
+    "label":"longitude",
+    "required":false
+  },
+
+  "street" : {
+    "type" : "String",
+    "description" : "Enter longitude",
+    "label":"longitude",
+    "required":false
+  },
+  "zipCode" : {
+    "type" : "String",
+    "description" : "Enter longitude",
+    "label":"longitude",
+    "required":false
+  },
+  "phone" : {
+    "type" : "String",
+    "description" : "Enter longitude",
+    "label":"longitude",
+    "required":false
+  },
+  "fax" : {
+    "type" : "String",
+    "description" : "Enter longitude",
+    "label":"longitude",
+    "required":false
+  },
+  "website" : {
+    "type" : "String",
+    "description" : "Enter longitude",
+    "label":"longitude",
+    "required":false
+  },
+  "logo" : {
+    "type" : "file",
+    "description" : "Enter longitude",
+    "label":"longitude",
+    "required":false
+  }
+}
